@@ -1,0 +1,27 @@
+/* App.css */
+
+.crypto-card {
+    background-color: #2980b9; /* Light gray background */
+    border: 1px solid #6e93b8; /* Gray border */
+    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 20px; /* Spacing between cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+  }
+  
+  .crypto-card .card-body {
+    padding: 20px; /* Padding inside the card body */
+  }
+  
+  .crypto-card .card-title {
+    font-size: 20px; /* Title font size */
+    margin-bottom: 10px; /* Spacing below title */
+  }
+  
+  .crypto-card .card-text {
+    font-size: 18px; /* Text font size */
+  }
+
+  .crypto-card:hover{
+    background-color: #1abc9c;
+  }
+  
