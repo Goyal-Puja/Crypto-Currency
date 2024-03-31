@@ -5,13 +5,28 @@ These tasks encompass the creation of a responsive side navigation bar, the visu
 and the presentation of cryptocurrency prices in an aesthetically pleasing card format.
 
 
-# Setup Instructions
-Clone the project repository: git clone https://github.com/Goyal-Puja/Crypto-Currency.git
+## Installation
 
-Navigate to the project directory: cd Crypto-Currency
+To go with latest version of Node and NPM
 
-Install project dependencies: npm install
+Clone the project repository: 
+```bash
+git clone https://github.com/Goyal-Puja/Crypto-Currency.git
+```
 
-Start the development server: npm start
+Navigate to the project directory: 
+```bash
+cd Crypto-Currency
+```
+
+Install project dependencies: 
+```bash
+npm install
+```
+
+Start the development server: 
+```bash
+npm start
+```
 
 Open http://localhost:3000 in your web browser to view the project.
